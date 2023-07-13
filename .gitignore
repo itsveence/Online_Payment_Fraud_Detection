@@ -1,3 +1,9 @@
 /.ipynb_checkpoints
 /archive
 /archive.zip
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.gitignore
+.vs/Online_Payment_Fraud_Detection/FileContentIndex/read.lock
+.vs/Online_Payment_Fraud_Detection/FileContentIndex/4df9ad76-db35-4353-b800-c9dc54b88857.vsidx
+.vs/Online_Payment_Fraud_Detection/v17/.wsuo
